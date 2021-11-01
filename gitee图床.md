@@ -41,7 +41,7 @@ picgo set uploader
     "gitee": {
       "repo": "dikesk/dikesk-tu", // 仓库名，格式是 username/reponame 必填
       "branch": "master", // 分支名，默认是 master
-      "token": "f9bd1a97ecd5c5daef111d98b3037c90", // gitee 私人令牌 必填
+      "token": "", // gitee 私人令牌 必填
       "path": "img/", // 自定义存储路径，比如 img/ 建议填
       "customPath": "default",
       "customUrl": ""// 自定义域名（没有自己的域名的话，可以默认为空就行），注意要加http://或者https://
